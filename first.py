@@ -5,4 +5,5 @@ for _ in range(10):
     print('boris')
 
 line = ['l', 'i', 'n', 'e']
-print(line)
+for l in line:
+    print(l)
