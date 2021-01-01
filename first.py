@@ -3,3 +3,6 @@ print('tomer you are the man')
 
 for _ in range(10):
     print('boris')
+
+line = ['l', 'i', 'n', 'e']
+print(line)
